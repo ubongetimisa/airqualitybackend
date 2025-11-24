@@ -1,0 +1,3 @@
+2025-11-12 11:47:20 - error_logger - ERROR - [logger_config.py:118] - <module>() - Testing error logger
+2025-11-12 11:53:50 - error_logger - ERROR - [logger_config.py:147] - <module>() - Testing error logger
+2025-11-12 12:00:04 - error_logger - ERROR - [test_logging.py:28] - <module>() - Test from error_logger

@@ -1,0 +1,1390 @@
+2025-11-12 11:47:20 - __main__ - INFO - [logger_config.py:117] - <module>() - Testing app logger
+2025-11-12 11:53:50 - __main__ - INFO - [logger_config.py:146] - <module>() - Testing app logger
+2025-11-12 11:56:54 - main - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 11:57:09 - main - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 11:57:11 - main - INFO - [main.py:84] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 11:57:11 - main - INFO - [main.py:96] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 11:57:11 - main - WARNING - [main.py:127] - <module>() - ⚠ saved_models directory not found
+2025-11-12 11:57:15 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 11:57:29 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 11:57:31 - air_quality_api - INFO - [main.py:84] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 11:57:31 - air_quality_api - INFO - [main.py:96] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 11:57:31 - air_quality_api - WARNING - [main.py:127] - <module>() - ⚠ saved_models directory not found
+2025-11-12 11:57:34 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 11:57:39 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 11:57:41 - air_quality_api - INFO - [main.py:84] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 11:57:41 - air_quality_api - INFO - [main.py:96] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 11:57:41 - air_quality_api - WARNING - [main.py:127] - <module>() - ⚠ saved_models directory not found
+2025-11-12 11:59:51 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 12:00:01 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 12:00:03 - air_quality_api - INFO - [main.py:84] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 12:00:03 - air_quality_api - INFO - [main.py:96] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 12:00:03 - air_quality_api - WARNING - [main.py:127] - <module>() - ⚠ saved_models directory not found
+2025-11-12 12:00:04 - air_quality_api - INFO - [test_logging.py:19] - <module>() - Test message from main logger
+2025-11-12 12:00:04 - air_quality_api - WARNING - [test_logging.py:20] - <module>() - Test warning message
+2025-11-12 12:00:04 - air_quality_api - ERROR - [test_logging.py:21] - <module>() - Test error message
+2025-11-12 12:00:04 - utils.logger_config - INFO - [test_logging.py:25] - <module>() - Test from app_logger
+2025-11-12 12:02:42 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 12:02:48 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 12:02:50 - air_quality_api - INFO - [main.py:84] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 12:02:50 - air_quality_api - INFO - [main.py:96] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 12:02:50 - air_quality_api - WARNING - [main.py:127] - <module>() - ⚠ saved_models directory not found
+2025-11-12 12:04:45 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 12:04:52 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 12:04:53 - air_quality_api - INFO - [main.py:84] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 12:04:53 - air_quality_api - INFO - [main.py:96] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 12:04:53 - air_quality_api - WARNING - [main.py:127] - <module>() - ⚠ saved_models directory not found
+2025-11-12 12:06:45 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 12:06:50 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 12:06:52 - air_quality_api - INFO - [main.py:84] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 12:06:52 - air_quality_api - INFO - [main.py:96] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 12:06:52 - air_quality_api - WARNING - [main.py:127] - <module>() - ⚠ saved_models directory not found
+2025-11-12 12:07:12 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 12:07:17 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 12:07:19 - air_quality_api - INFO - [main.py:84] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 12:07:19 - air_quality_api - INFO - [main.py:96] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 12:07:19 - air_quality_api - WARNING - [main.py:127] - <module>() - ⚠ saved_models directory not found
+2025-11-12 12:07:46 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 12:07:49 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 12:07:51 - air_quality_api - INFO - [main.py:84] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 12:07:51 - air_quality_api - INFO - [main.py:96] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 12:07:51 - air_quality_api - WARNING - [main.py:127] - <module>() - ⚠ saved_models directory not found
+2025-11-12 12:08:54 - air_quality_api - INFO - [main.py:299] - register_user() - User registration attempt: alice.researcher@example.edu
+2025-11-12 12:08:55 - air_quality_api - ERROR - [main.py:325] - register_user() - Error registering user alice.researcher@example.edu: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+Traceback (most recent call last):
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\air-quality-prediction\backend\main.py", line 312, in register_user
+    user_dict["hashed_password"] = get_password_hash(user.password)
+                                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\air-quality-prediction\backend\main.py", line 190, in get_password_hash
+    return pwd_context.hash(password)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2025-11-12 12:09:58 - air_quality_api - INFO - [main.py:299] - register_user() - User registration attempt: alice.researcher@example.edu
+2025-11-12 12:09:58 - air_quality_api - ERROR - [main.py:325] - register_user() - Error registering user alice.researcher@example.edu: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+Traceback (most recent call last):
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\air-quality-prediction\backend\main.py", line 312, in register_user
+    user_dict["hashed_password"] = get_password_hash(user.password)
+                                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\air-quality-prediction\backend\main.py", line 190, in get_password_hash
+    return pwd_context.hash(password)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2025-11-12 12:11:56 - air_quality_api - INFO - [main.py:299] - register_user() - User registration attempt: alice.researcher@example.edu
+2025-11-12 12:11:56 - air_quality_api - ERROR - [main.py:325] - register_user() - Error registering user alice.researcher@example.edu: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+Traceback (most recent call last):
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\air-quality-prediction\backend\main.py", line 312, in register_user
+    if db.users.find_one({"email": user.email}):
+                                       ^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\air-quality-prediction\backend\main.py", line 190, in get_password_hash
+    # Truncate password to 72 bytes (same as in get_password_hash)
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2025-11-12 12:12:01 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 12:12:07 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 12:12:09 - air_quality_api - INFO - [main.py:84] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 12:12:09 - air_quality_api - INFO - [main.py:96] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 12:12:09 - air_quality_api - WARNING - [main.py:127] - <module>() - ⚠ saved_models directory not found
+2025-11-12 12:12:09 - air_quality_api - INFO - [main.py:309] - register_user() - User registration attempt: alice.researcher@example.edu
+2025-11-12 12:12:09 - air_quality_api - ERROR - [main.py:335] - register_user() - Error registering user alice.researcher@example.edu: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+Traceback (most recent call last):
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\air-quality-prediction\backend\main.py", line 322, in register_user
+    user_dict["hashed_password"] = get_password_hash(user.password)
+                                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\air-quality-prediction\backend\main.py", line 200, in get_password_hash
+    return pwd_context.hash(truncated_password)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2025-11-12 12:13:54 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 12:13:59 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 12:14:01 - air_quality_api - INFO - [main.py:84] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 12:14:01 - air_quality_api - INFO - [main.py:96] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 12:14:01 - air_quality_api - WARNING - [main.py:127] - <module>() - ⚠ saved_models directory not found
+2025-11-12 12:16:05 - air_quality_api - INFO - [main.py:309] - register_user() - User registration attempt: alice.researcher@example.edu
+2025-11-12 12:16:06 - air_quality_api - INFO - [main.py:329] - register_user() - ✓ User registered successfully: alice.researcher@example.edu (ID: 69146c755ffeeb564057330e)
+2025-11-12 12:16:27 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 12:16:42 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 12:16:45 - air_quality_api - INFO - [main.py:84] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 12:16:45 - air_quality_api - INFO - [main.py:96] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 12:16:45 - air_quality_api - WARNING - [main.py:127] - <module>() - ⚠ saved_models directory not found
+2025-11-12 12:16:49 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 12:16:52 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 12:16:54 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 12:16:54 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 12:16:54 - air_quality_api - WARNING - [main.py:132] - <module>() - ⚠ saved_models directory not found
+2025-11-12 12:17:04 - air_quality_api - INFO - [main.py:314] - register_user() - User registration attempt: alice.researcher@example.edu
+2025-11-12 12:17:05 - air_quality_api - WARNING - [main.py:318] - register_user() - Registration failed: Email already registered - alice.researcher@example.edu
+2025-11-12 12:17:22 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 12:17:26 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 12:17:27 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 12:17:27 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 12:17:28 - air_quality_api - WARNING - [main.py:132] - <module>() - ⚠ saved_models directory not found
+2025-11-12 12:18:29 - air_quality_api - INFO - [main.py:314] - register_user() - User registration attempt: alice.researcher@example.edu
+2025-11-12 12:18:29 - air_quality_api - WARNING - [main.py:318] - register_user() - Registration failed: Email already registered - alice.researcher@example.edu
+2025-11-12 12:19:07 - air_quality_api - INFO - [main.py:314] - register_user() - User registration attempt: grace.researcher@example.edu
+2025-11-12 12:19:07 - air_quality_api - INFO - [main.py:334] - register_user() - ✓ User registered successfully: grace.researcher@example.edu (ID: 69146d2bb795a9e56d623f7d)
+2025-11-12 12:20:08 - air_quality_api - INFO - [main.py:314] - register_user() - User registration attempt: grace.researcher@example.edu
+2025-11-12 12:20:08 - air_quality_api - WARNING - [main.py:318] - register_user() - Registration failed: Email already registered - grace.researcher@example.edu
+2025-11-12 12:23:52 - air_quality_api - INFO - [main.py:346] - login_for_access_token() - Login attempt: grace.researcher@example.edu
+2025-11-12 12:23:53 - air_quality_api - INFO - [main.py:362] - login_for_access_token() - ✓ Token generated for user: grace.researcher@example.edu
+2025-11-12 12:30:03 - air_quality_api - INFO - [main.py:639] - get_cities_geodata() - ✓ City geodata retrieved for 0 locations
+2025-11-12 12:30:03 - air_quality_api - INFO - [main.py:555] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 2 users
+2025-11-12 12:30:04 - air_quality_api - INFO - [main.py:575] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-12 12:30:06 - air_quality_api - INFO - [main.py:555] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 2 users
+2025-11-12 12:30:08 - air_quality_api - INFO - [main.py:555] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 2 users
+2025-11-12 12:30:08 - air_quality_api - INFO - [main.py:639] - get_cities_geodata() - ✓ City geodata retrieved for 0 locations
+2025-11-12 12:30:13 - air_quality_api - INFO - [main.py:575] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-12 12:30:14 - air_quality_api - INFO - [main.py:555] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 2 users
+2025-11-12 12:33:39 - air_quality_api - INFO - [main.py:639] - get_cities_geodata() - ✓ City geodata retrieved for 0 locations
+2025-11-12 12:33:42 - air_quality_api - INFO - [main.py:575] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-12 12:33:42 - air_quality_api - INFO - [main.py:555] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 2 users
+2025-11-12 12:33:43 - air_quality_api - INFO - [main.py:555] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 2 users
+2025-11-12 12:40:22 - air_quality_api - INFO - [main.py:639] - get_cities_geodata() - ✓ City geodata retrieved for 0 locations
+2025-11-12 12:40:22 - air_quality_api - INFO - [main.py:639] - get_cities_geodata() - ✓ City geodata retrieved for 0 locations
+2025-11-12 12:40:22 - air_quality_api - INFO - [main.py:639] - get_cities_geodata() - ✓ City geodata retrieved for 0 locations
+2025-11-12 12:40:23 - air_quality_api - INFO - [main.py:639] - get_cities_geodata() - ✓ City geodata retrieved for 0 locations
+2025-11-12 13:06:47 - air_quality_api - INFO - [main.py:575] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-12 13:06:49 - air_quality_api - INFO - [main.py:639] - get_cities_geodata() - ✓ City geodata retrieved for 0 locations
+2025-11-12 13:06:52 - air_quality_api - INFO - [main.py:555] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 2 users
+2025-11-12 13:06:53 - air_quality_api - INFO - [main.py:555] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 2 users
+2025-11-12 15:43:46 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 15:43:52 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 15:43:55 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 15:43:55 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 15:43:55 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 15:45:08 - air_quality_api - INFO - [main.py:639] - get_cities_geodata() - ✓ City geodata retrieved for 0 locations
+2025-11-12 15:45:09 - air_quality_api - INFO - [main.py:575] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-12 15:45:11 - air_quality_api - INFO - [main.py:555] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 2 users
+2025-11-12 15:45:11 - air_quality_api - INFO - [main.py:555] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 2 users
+2025-11-12 15:52:54 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 15:52:58 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 15:53:00 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 15:53:00 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 15:53:00 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 15:53:04 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 15:53:06 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 15:53:08 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 15:53:08 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 15:53:08 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 15:53:10 - air_quality_api - INFO - [main.py:575] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-12 15:53:10 - air_quality_api - INFO - [main.py:639] - get_cities_geodata() - ✓ City geodata retrieved for 0 locations
+2025-11-12 15:53:10 - air_quality_api - INFO - [main.py:555] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 2 users
+2025-11-12 15:53:12 - air_quality_api - INFO - [main.py:555] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 2 users
+2025-11-12 15:56:59 - air_quality_api - INFO - [main.py:639] - get_cities_geodata() - ✓ City geodata retrieved for 0 locations
+2025-11-12 15:57:00 - air_quality_api - INFO - [main.py:555] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 2 users
+2025-11-12 15:57:04 - air_quality_api - INFO - [main.py:575] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-12 15:57:04 - air_quality_api - INFO - [main.py:639] - get_cities_geodata() - ✓ City geodata retrieved for 0 locations
+2025-11-12 15:57:06 - air_quality_api - INFO - [main.py:575] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-12 15:57:08 - air_quality_api - INFO - [main.py:555] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 2 users
+2025-11-12 15:57:09 - air_quality_api - INFO - [main.py:555] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 2 users
+2025-11-12 15:59:38 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 15:59:43 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 15:59:45 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 15:59:45 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 15:59:45 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 16:00:43 - air_quality_api - INFO - [main.py:639] - get_cities_geodata() - ✓ City geodata retrieved for 0 locations
+2025-11-12 16:00:44 - air_quality_api - INFO - [main.py:555] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 2 users
+2025-11-12 16:00:45 - air_quality_api - INFO - [main.py:575] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-12 16:00:46 - air_quality_api - INFO - [main.py:555] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 2 users
+2025-11-12 16:07:35 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 16:07:41 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 16:07:43 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 16:07:43 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 16:07:43 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 16:07:47 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 16:07:49 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 16:07:51 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 16:07:51 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 16:07:51 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 16:11:35 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 16:11:42 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 16:11:44 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 16:11:44 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 16:11:44 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 16:30:53 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 16:31:05 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 16:31:06 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 16:31:06 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 16:31:07 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 16:31:07 - air_quality_api - INFO - [main.py:315] - register_user() - User registration attempt: test_debug@example.com
+2025-11-12 16:31:09 - air_quality_api - INFO - [main.py:335] - register_user() - ✓ User registered successfully: test_debug@example.com (ID: 6914a83d135279c1006835da)
+2025-11-12 16:31:09 - air_quality_api - ERROR - [main.py:341] - register_user() - Error registering user test_debug@example.com: 1 validation error for UserResponse
+research_interests
+  Input should be a valid list [type=list_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.12/v/list_type
+Traceback (most recent call last):
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\air-quality-prediction\backend\main.py", line 339, in register_user
+    return UserResponse(**user_dict)
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\pydantic\main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for UserResponse
+research_interests
+  Input should be a valid list [type=list_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.12/v/list_type
+2025-11-12 16:35:02 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 16:35:14 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 16:35:26 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 16:35:26 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 16:35:28 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 16:35:41 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 16:36:12 - air_quality_api - ERROR - [main.py:58] - <module>() - ❌ Failed to connect to MongoDB: SSL handshake failed: ac-ieagrup-shard-00-01.h3c8cow.mongodb.net:27017: _ssl.c:1059: The handshake operation timed out
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python314\Lib\site-packages\pymongo\pool.py", line 1245, in _configured_socket
+    ssl_sock = ssl_context.wrap_socket(sock, server_hostname=host)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python314\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python314\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python314\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+TimeoutError: _ssl.c:1059: The handshake operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\air-quality-prediction\backend\main.py", line 55, in <module>
+    client.admin.command('ping')
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python314\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python314\Lib\site-packages\pymongo\database.py", line 892, in command
+    with self.__client._conn_for_reads(read_preference, session) as (
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python314\Lib\contextlib.py", line 141, in __enter__
+    return next(self.gen)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python314\Lib\site-packages\pymongo\mongo_client.py", line 1324, in _conn_from_server
+    with self._checkout(server, session) as conn:
+         ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python314\Lib\contextlib.py", line 141, in __enter__
+    return next(self.gen)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python314\Lib\site-packages\pymongo\mongo_client.py", line 1246, in _checkout
+    with server.checkout(handler=err_handler) as conn:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python314\Lib\contextlib.py", line 141, in __enter__
+    return next(self.gen)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python314\Lib\site-packages\pymongo\pool.py", line 1598, in checkout
+    conn = self._get_conn(handler=handler)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python314\Lib\site-packages\pymongo\pool.py", line 1714, in _get_conn
+    conn = self.connect(handler=handler)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python314\Lib\site-packages\pymongo\pool.py", line 1547, in connect
+    sock = _configured_socket(self.address, self.opts)
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python314\Lib\site-packages\pymongo\pool.py", line 1258, in _configured_socket
+    _raise_connection_failure(address, exc, "SSL handshake failed: ")
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python314\Lib\site-packages\pymongo\pool.py", line 398, in _raise_connection_failure
+    raise NetworkTimeout(msg) from error
+pymongo.errors.NetworkTimeout: SSL handshake failed: ac-ieagrup-shard-00-01.h3c8cow.mongodb.net:27017: _ssl.c:1059: The handshake operation timed out
+2025-11-12 16:36:49 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 16:36:58 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 16:37:00 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 16:37:00 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 16:37:01 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 16:37:01 - air_quality_api - INFO - [main.py:315] - register_user() - User registration attempt: users@example.com
+2025-11-12 16:37:03 - air_quality_api - INFO - [main.py:335] - register_user() - ✓ User registered successfully: users@example.com (ID: 6914a99e135279c1006835db)
+2025-11-12 16:37:10 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 16:37:20 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 16:37:23 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 16:37:23 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 16:37:23 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 16:37:27 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 16:37:39 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 16:37:41 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 16:37:41 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 16:37:41 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 16:38:10 - air_quality_api - INFO - [main.py:315] - register_user() - User registration attempt: users@efxample.com
+2025-11-12 16:38:18 - air_quality_api - INFO - [main.py:335] - register_user() - ✓ User registered successfully: users@efxample.com (ID: 6914a9e747ddec375699e649)
+2025-11-12 16:38:50 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 16:38:59 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 16:39:01 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 16:39:01 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 16:39:01 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 16:43:59 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 16:43:59 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 16:44:09 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 16:44:10 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 16:44:12 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 16:44:12 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 16:44:12 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 16:44:12 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 16:44:13 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 16:44:13 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 16:44:18 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 16:44:19 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 16:44:25 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 16:44:26 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 16:44:27 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 16:44:27 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 16:44:27 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 16:44:33 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 16:44:33 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 16:44:33 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 16:44:39 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 16:44:41 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 16:44:44 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 16:44:44 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 16:44:44 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 16:46:07 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 16:46:10 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 16:46:11 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 16:46:11 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 16:46:12 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-12 17:07:11 - air_quality_api - INFO - [main.py:49] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-12 17:07:13 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-12 17:07:15 - air_quality_api - INFO - [main.py:89] - <module>() - ✓ Scaler loaded from artifacts
+2025-11-12 17:07:15 - air_quality_api - INFO - [main.py:101] - <module>() - ✓ Feature names loaded (173 features)
+2025-11-12 17:07:15 - air_quality_api - INFO - [main.py:130] - <module>() - ✓ Loaded 0 model(s) from saved_models directory
+2025-11-21 19:29:02 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 19:29:05 - air_quality_api - INFO - [main.py:70] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 19:29:05 - air_quality_api - WARNING - [main.py:140] - <module>() - ⚠ Scaler not found in any artifact path. Using default behavior.
+2025-11-21 19:29:05 - air_quality_api - WARNING - [main.py:148] - <module>() - ⚠ Feature names not found. Using default feature names. Error: [Errno 2] No such file or directory: '/app/artifacts\\feature_names.pkl'
+2025-11-21 19:29:05 - air_quality_api - WARNING - [main.py:177] - <module>() - ⚠ saved_models directory not found
+2025-11-21 19:29:09 - air_quality_api - INFO - [main.py:80] - startup_event() - ================================================================================
+2025-11-21 19:29:09 - air_quality_api - INFO - [main.py:81] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 19:29:09 - air_quality_api - INFO - [main.py:82] - startup_event() - ================================================================================
+2025-11-21 19:29:09 - air_quality_api - WARNING - [main.py:90] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 19:29:09 - air_quality_api - INFO - [main.py:94] - startup_event() - ================================================================================
+2025-11-21 19:29:18 - air_quality_api - INFO - [main.py:99] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 19:29:18 - air_quality_api - INFO - [main.py:102] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 19:29:24 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 19:29:26 - air_quality_api - INFO - [main.py:70] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 19:29:26 - air_quality_api - WARNING - [main.py:140] - <module>() - ⚠ Scaler not found in any artifact path. Using default behavior.
+2025-11-21 19:29:26 - air_quality_api - WARNING - [main.py:148] - <module>() - ⚠ Feature names not found. Using default feature names. Error: [Errno 2] No such file or directory: '/app/artifacts\\feature_names.pkl'
+2025-11-21 19:29:26 - air_quality_api - WARNING - [main.py:177] - <module>() - ⚠ saved_models directory not found
+2025-11-21 19:29:31 - air_quality_api - INFO - [main.py:80] - startup_event() - ================================================================================
+2025-11-21 19:29:31 - air_quality_api - INFO - [main.py:81] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 19:29:31 - air_quality_api - INFO - [main.py:82] - startup_event() - ================================================================================
+2025-11-21 19:29:31 - air_quality_api - WARNING - [main.py:90] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 19:29:31 - air_quality_api - INFO - [main.py:94] - startup_event() - ================================================================================
+2025-11-21 21:01:03 - air_quality_api - INFO - [main.py:99] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:01:03 - air_quality_api - INFO - [main.py:102] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:01:11 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:01:15 - air_quality_api - INFO - [main.py:70] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:01:15 - air_quality_api - WARNING - [main.py:140] - <module>() - ⚠ Scaler not found in any artifact path. Using default behavior.
+2025-11-21 21:01:15 - air_quality_api - WARNING - [main.py:148] - <module>() - ⚠ Feature names not found. Using default feature names. Error: [Errno 2] No such file or directory: '/app/artifacts\\feature_names.pkl'
+2025-11-21 21:01:15 - air_quality_api - WARNING - [main.py:177] - <module>() - ⚠ saved_models directory not found
+2025-11-21 21:01:19 - air_quality_api - INFO - [main.py:80] - startup_event() - ================================================================================
+2025-11-21 21:01:19 - air_quality_api - INFO - [main.py:81] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:01:19 - air_quality_api - INFO - [main.py:82] - startup_event() - ================================================================================
+2025-11-21 21:01:19 - air_quality_api - WARNING - [main.py:90] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 21:01:19 - air_quality_api - INFO - [main.py:94] - startup_event() - ================================================================================
+2025-11-21 21:01:19 - air_quality_api - INFO - [main.py:99] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:01:19 - air_quality_api - INFO - [main.py:102] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:02:46 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:02:51 - air_quality_api - INFO - [main.py:70] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:02:51 - air_quality_api - WARNING - [main.py:140] - <module>() - ⚠ Scaler not found in any artifact path. Using default behavior.
+2025-11-21 21:02:51 - air_quality_api - WARNING - [main.py:148] - <module>() - ⚠ Feature names not found. Using default feature names. Error: [Errno 2] No such file or directory: '/app/artifacts\\feature_names.pkl'
+2025-11-21 21:02:51 - air_quality_api - WARNING - [main.py:177] - <module>() - ⚠ saved_models directory not found
+2025-11-21 21:02:53 - air_quality_api - INFO - [main.py:80] - startup_event() - ================================================================================
+2025-11-21 21:02:53 - air_quality_api - INFO - [main.py:81] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:02:53 - air_quality_api - INFO - [main.py:82] - startup_event() - ================================================================================
+2025-11-21 21:02:53 - air_quality_api - WARNING - [main.py:90] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 21:02:53 - air_quality_api - INFO - [main.py:94] - startup_event() - ================================================================================
+2025-11-21 21:06:32 - air_quality_api - INFO - [main.py:99] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:06:32 - air_quality_api - INFO - [main.py:102] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:06:43 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:06:47 - air_quality_api - INFO - [main.py:70] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:06:48 - air_quality_api - WARNING - [main.py:140] - <module>() - ⚠ Scaler not found in any artifact path. Using default behavior.
+2025-11-21 21:06:48 - air_quality_api - WARNING - [main.py:148] - <module>() - ⚠ Feature names not found. Using default feature names. Error: [Errno 2] No such file or directory: '/app/artifacts\\feature_names.pkl'
+2025-11-21 21:06:48 - air_quality_api - WARNING - [main.py:177] - <module>() - ⚠ saved_models directory not found
+2025-11-21 21:06:54 - air_quality_api - INFO - [main.py:80] - startup_event() - ================================================================================
+2025-11-21 21:06:54 - air_quality_api - INFO - [main.py:81] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:06:54 - air_quality_api - INFO - [main.py:82] - startup_event() - ================================================================================
+2025-11-21 21:06:54 - air_quality_api - WARNING - [main.py:90] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 21:06:54 - air_quality_api - INFO - [main.py:94] - startup_event() - ================================================================================
+2025-11-21 21:08:01 - air_quality_api - INFO - [main.py:99] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:08:01 - air_quality_api - INFO - [main.py:102] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:08:11 - air_quality_api - INFO - [main.py:60] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:08:21 - air_quality_api - INFO - [main.py:67] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:08:21 - air_quality_api - WARNING - [main.py:137] - <module>() - ⚠ Scaler not found in any artifact path. Using default behavior.
+2025-11-21 21:08:21 - air_quality_api - WARNING - [main.py:145] - <module>() - ⚠ Feature names not found. Using default feature names. Error: [Errno 2] No such file or directory: '/app/artifacts\\feature_names.pkl'
+2025-11-21 21:08:21 - air_quality_api - WARNING - [main.py:174] - <module>() - ⚠ saved_models directory not found
+2025-11-21 21:08:24 - air_quality_api - INFO - [main.py:77] - startup_event() - ================================================================================
+2025-11-21 21:08:24 - air_quality_api - INFO - [main.py:78] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:08:24 - air_quality_api - INFO - [main.py:79] - startup_event() - ================================================================================
+2025-11-21 21:08:24 - air_quality_api - WARNING - [main.py:87] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 21:08:24 - air_quality_api - INFO - [main.py:91] - startup_event() - ================================================================================
+2025-11-21 21:08:24 - air_quality_api - INFO - [main.py:96] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:08:24 - air_quality_api - INFO - [main.py:99] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:08:28 - air_quality_api - INFO - [main.py:60] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:08:30 - air_quality_api - INFO - [main.py:67] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:08:31 - air_quality_api - WARNING - [main.py:137] - <module>() - ⚠ Scaler not found in any artifact path. Using default behavior.
+2025-11-21 21:08:31 - air_quality_api - WARNING - [main.py:145] - <module>() - ⚠ Feature names not found. Using default feature names. Error: [Errno 2] No such file or directory: '/app/artifacts\\feature_names.pkl'
+2025-11-21 21:08:31 - air_quality_api - WARNING - [main.py:174] - <module>() - ⚠ saved_models directory not found
+2025-11-21 21:08:33 - air_quality_api - INFO - [main.py:77] - startup_event() - ================================================================================
+2025-11-21 21:08:33 - air_quality_api - INFO - [main.py:78] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:08:33 - air_quality_api - INFO - [main.py:79] - startup_event() - ================================================================================
+2025-11-21 21:08:33 - air_quality_api - WARNING - [main.py:87] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 21:08:33 - air_quality_api - INFO - [main.py:91] - startup_event() - ================================================================================
+2025-11-21 21:08:33 - air_quality_api - INFO - [main.py:96] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:08:33 - air_quality_api - INFO - [main.py:99] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:08:37 - air_quality_api - INFO - [main.py:60] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:08:40 - air_quality_api - INFO - [main.py:67] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:08:40 - air_quality_api - WARNING - [main.py:137] - <module>() - ⚠ Scaler not found in any artifact path. Using default behavior.
+2025-11-21 21:08:40 - air_quality_api - WARNING - [main.py:145] - <module>() - ⚠ Feature names not found. Using default feature names. Error: [Errno 2] No such file or directory: '/app/artifacts\\feature_names.pkl'
+2025-11-21 21:08:40 - air_quality_api - WARNING - [main.py:174] - <module>() - ⚠ saved_models directory not found
+2025-11-21 21:08:43 - air_quality_api - INFO - [main.py:77] - startup_event() - ================================================================================
+2025-11-21 21:08:43 - air_quality_api - INFO - [main.py:78] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:08:43 - air_quality_api - INFO - [main.py:79] - startup_event() - ================================================================================
+2025-11-21 21:08:43 - air_quality_api - WARNING - [main.py:87] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 21:08:43 - air_quality_api - INFO - [main.py:91] - startup_event() - ================================================================================
+2025-11-21 21:08:43 - air_quality_api - INFO - [main.py:96] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:08:43 - air_quality_api - INFO - [main.py:99] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:08:47 - air_quality_api - INFO - [main.py:60] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:08:50 - air_quality_api - INFO - [main.py:67] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:08:50 - air_quality_api - WARNING - [main.py:137] - <module>() - ⚠ Scaler not found in any artifact path. Using default behavior.
+2025-11-21 21:08:50 - air_quality_api - WARNING - [main.py:145] - <module>() - ⚠ Feature names not found. Using default feature names. Error: [Errno 2] No such file or directory: '/app/artifacts\\feature_names.pkl'
+2025-11-21 21:08:50 - air_quality_api - WARNING - [main.py:174] - <module>() - ⚠ saved_models directory not found
+2025-11-21 21:08:52 - air_quality_api - INFO - [main.py:77] - startup_event() - ================================================================================
+2025-11-21 21:08:52 - air_quality_api - INFO - [main.py:78] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:08:52 - air_quality_api - INFO - [main.py:79] - startup_event() - ================================================================================
+2025-11-21 21:08:52 - air_quality_api - WARNING - [main.py:87] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 21:08:52 - air_quality_api - INFO - [main.py:91] - startup_event() - ================================================================================
+2025-11-21 21:09:09 - air_quality_api - INFO - [main.py:96] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:09:09 - air_quality_api - INFO - [main.py:99] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:09:13 - air_quality_api - INFO - [main.py:60] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:09:15 - air_quality_api - INFO - [main.py:67] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:09:15 - air_quality_api - WARNING - [main.py:137] - <module>() - ⚠ Scaler not found in any artifact path. Using default behavior.
+2025-11-21 21:09:15 - air_quality_api - WARNING - [main.py:145] - <module>() - ⚠ Feature names not found. Using default feature names. Error: [Errno 2] No such file or directory: '/app/artifacts\\feature_names.pkl'
+2025-11-21 21:09:15 - air_quality_api - WARNING - [main.py:174] - <module>() - ⚠ saved_models directory not found
+2025-11-21 21:09:18 - air_quality_api - INFO - [main.py:77] - startup_event() - ================================================================================
+2025-11-21 21:09:18 - air_quality_api - INFO - [main.py:78] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:09:18 - air_quality_api - INFO - [main.py:79] - startup_event() - ================================================================================
+2025-11-21 21:09:18 - air_quality_api - WARNING - [main.py:87] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 21:09:18 - air_quality_api - INFO - [main.py:91] - startup_event() - ================================================================================
+2025-11-21 21:14:10 - air_quality_api - INFO - [main.py:96] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:14:10 - air_quality_api - INFO - [main.py:99] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:14:14 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:14:40 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:14:42 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 21:14:42 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:14:42 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 21:14:42 - air_quality_api - WARNING - [main.py:83] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 21:14:42 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 21:18:14 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:18:14 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:18:19 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:18:21 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:18:24 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 21:18:24 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:18:24 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 21:18:24 - air_quality_api - WARNING - [main.py:83] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 21:18:24 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 21:18:24 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:18:24 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:19:07 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:19:09 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:19:12 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 21:19:12 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:19:12 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 21:19:12 - air_quality_api - WARNING - [main.py:83] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 21:19:12 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 21:37:54 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:37:56 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:39:16 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:39:19 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:39:24 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 21:39:24 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:39:24 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 21:39:24 - air_quality_api - WARNING - [main.py:83] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 21:39:24 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 21:42:10 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:42:11 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:42:17 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:42:21 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:42:29 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 21:42:29 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:42:29 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 21:42:29 - air_quality_api - WARNING - [main.py:83] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 21:42:29 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 21:45:03 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:45:03 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:45:11 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:45:15 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:45:18 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 21:45:18 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:45:18 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 21:45:18 - air_quality_api - WARNING - [main.py:83] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 21:45:18 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 21:47:51 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:47:51 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:47:56 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:47:59 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:48:03 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 21:48:03 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:48:03 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 21:48:03 - air_quality_api - WARNING - [main.py:83] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 21:48:03 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 21:48:26 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:48:39 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:48:39 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:48:46 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:48:48 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:48:50 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 21:48:50 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:48:50 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 21:48:50 - air_quality_api - WARNING - [main.py:83] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 21:48:50 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 21:50:53 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:50:54 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:50:59 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:51:01 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:51:04 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 21:51:04 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:51:04 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 21:51:04 - air_quality_api - WARNING - [main.py:83] - startup_event() - ⚠ Some prediction models failed to initialize
+2025-11-21 21:51:04 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 21:52:44 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:52:44 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:52:50 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:52:53 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:52:55 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 21:52:55 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:52:55 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 21:52:56 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-21 21:52:56 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 21:53:32 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:53:32 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:53:37 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:53:40 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:53:42 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 21:53:42 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:53:42 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 21:53:42 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-21 21:53:42 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 21:54:56 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:54:56 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:55:02 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:55:05 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:55:08 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 21:55:08 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:55:08 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 21:55:08 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-21 21:55:08 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 21:58:57 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 21:58:57 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 21:59:03 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 21:59:06 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 21:59:08 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 21:59:08 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 21:59:08 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 21:59:09 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-21 21:59:09 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 22:04:00 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 22:04:00 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 22:04:19 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 22:04:23 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 22:04:30 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 22:04:30 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 22:04:30 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 22:04:35 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-21 22:04:35 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 22:05:37 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 22:05:37 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 22:05:54 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 22:05:57 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 22:06:01 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 22:06:01 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 22:06:01 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 22:06:01 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-21 22:06:01 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 22:08:04 - air_quality_api - INFO - [main.py:467] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-21 22:08:05 - air_quality_api - INFO - [main.py:383] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:08:05 - air_quality_api - ERROR - [main.py:392] - get_model_analytics() - Error generating analytics: name 'models' is not defined
+Traceback (most recent call last):
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\air-quality-prediction\backend\main.py", line 389, in get_model_analytics
+    "available_models": list(models.keys())
+                             ^^^^^^
+NameError: name 'models' is not defined
+2025-11-21 22:08:06 - air_quality_api - INFO - [main.py:403] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-21 22:08:06 - air_quality_api - INFO - [main.py:383] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:08:06 - air_quality_api - ERROR - [main.py:392] - get_model_analytics() - Error generating analytics: name 'models' is not defined
+Traceback (most recent call last):
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\air-quality-prediction\backend\main.py", line 389, in get_model_analytics
+    "available_models": list(models.keys())
+                             ^^^^^^
+NameError: name 'models' is not defined
+2025-11-21 22:08:07 - air_quality_api - INFO - [main.py:383] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:08:07 - air_quality_api - ERROR - [main.py:392] - get_model_analytics() - Error generating analytics: name 'models' is not defined
+Traceback (most recent call last):
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\air-quality-prediction\backend\main.py", line 389, in get_model_analytics
+    "available_models": list(models.keys())
+                             ^^^^^^
+NameError: name 'models' is not defined
+2025-11-21 22:13:47 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 22:13:47 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 22:13:56 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 22:13:58 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 22:14:02 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 22:14:02 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 22:14:02 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 22:14:03 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-21 22:14:03 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 22:14:03 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 22:14:03 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 22:14:10 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 22:14:12 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 22:14:16 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 22:14:16 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 22:14:16 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 22:14:16 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-21 22:14:16 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 22:16:30 - air_quality_api - INFO - [main.py:410] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-21 22:16:31 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:16:31 - air_quality_api - INFO - [main.py:474] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-21 22:16:32 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:16:32 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:17:09 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 22:17:09 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 22:17:18 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 22:17:20 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 22:17:24 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 22:17:24 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 22:17:24 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 22:17:24 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-21 22:17:24 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 22:17:26 - air_quality_api - INFO - [main.py:474] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-21 22:17:26 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:17:27 - air_quality_api - INFO - [main.py:410] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-21 22:17:27 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:17:28 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:18:32 - air_quality_api - INFO - [main.py:474] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-21 22:18:32 - air_quality_api - INFO - [main.py:410] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-21 22:18:33 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:18:33 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:18:34 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:23:19 - air_quality_api - INFO - [main.py:410] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-21 22:23:20 - air_quality_api - INFO - [main.py:474] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-21 22:23:21 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:23:21 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:23:22 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:23:42 - air_quality_api - INFO - [main.py:410] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-21 22:23:43 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:23:43 - air_quality_api - INFO - [main.py:474] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-21 22:23:44 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:23:44 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:24:47 - air_quality_api - INFO - [main.py:474] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-21 22:24:48 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:24:48 - air_quality_api - INFO - [main.py:410] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-21 22:24:49 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:24:49 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:25:38 - air_quality_api - INFO - [main.py:474] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-21 22:25:38 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:25:39 - air_quality_api - INFO - [main.py:410] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-21 22:25:39 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:25:40 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:26:15 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 22:26:16 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 22:26:28 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 22:26:31 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 22:26:35 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 22:26:35 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 22:26:35 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 22:26:36 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-21 22:26:36 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-21 22:26:36 - air_quality_api - INFO - [main.py:474] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-21 22:26:36 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:26:37 - air_quality_api - INFO - [main.py:410] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-21 22:26:37 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:26:38 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-21 22:31:24 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-21 22:31:25 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-21 22:31:31 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-21 22:31:33 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-21 22:31:42 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-21 22:31:42 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-21 22:31:42 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-21 22:31:42 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-21 22:31:42 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-22 07:34:36 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-22 07:37:06 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-22 07:37:07 - air_quality_api - INFO - [main.py:474] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 07:37:07 - air_quality_api - INFO - [main.py:410] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 07:37:08 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-22 07:39:54 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 07:39:54 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 07:40:07 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 07:40:09 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 07:40:15 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-22 07:40:15 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 07:40:15 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-22 07:40:15 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 07:40:15 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-22 07:41:18 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 07:41:18 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 07:41:23 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 07:41:25 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 07:41:28 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-22 07:41:28 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 07:41:28 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-22 07:41:28 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 07:41:28 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-22 07:42:34 - air_quality_api - INFO - [main.py:474] - get_cities_geodata() - ✓ City geodata retrieved for 0 locations
+2025-11-22 07:42:34 - air_quality_api - INFO - [main.py:410] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 07:42:34 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 5 users
+2025-11-22 07:42:35 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 0 predictions, 5 users
+2025-11-22 07:44:32 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 07:44:35 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 07:44:39 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-22 07:44:39 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 07:44:39 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-22 07:44:39 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 07:44:39 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-22 07:50:52 - air_quality_api - INFO - [main.py:474] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 07:50:52 - air_quality_api - INFO - [main.py:410] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 07:50:53 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 1 predictions, 5 users
+2025-11-22 07:50:53 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 1 predictions, 5 users
+2025-11-22 07:53:16 - air_quality_api - INFO - [main.py:474] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 07:53:16 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 6 predictions, 5 users
+2025-11-22 07:53:17 - air_quality_api - INFO - [main.py:410] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 07:53:17 - air_quality_api - INFO - [main.py:390] - get_model_analytics() - ✓ Analytics report generated: 6 predictions, 5 users
+2025-11-22 07:59:34 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 07:59:34 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 07:59:44 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 07:59:45 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 08:00:01 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-22 08:00:01 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 08:00:01 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-22 08:00:03 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 08:00:03 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-22 08:00:13 - air_quality_api - INFO - [main.py:481] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 08:00:14 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 6 predictions, 5 users
+2025-11-22 08:00:14 - air_quality_api - INFO - [main.py:417] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 08:00:15 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 6 predictions, 5 users
+2025-11-22 08:00:58 - air_quality_api - INFO - [main.py:481] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 08:00:59 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 6 predictions, 5 users
+2025-11-22 08:00:59 - air_quality_api - INFO - [main.py:417] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 08:00:59 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 6 predictions, 5 users
+2025-11-22 08:01:28 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 08:01:28 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 08:01:34 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 08:01:36 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 08:01:39 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-22 08:01:39 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 08:01:39 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-22 08:01:40 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 08:01:40 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-22 08:05:17 - air_quality_api - INFO - [main.py:481] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 08:05:18 - air_quality_api - INFO - [main.py:417] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 08:05:18 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-22 08:05:19 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-22 08:06:32 - air_quality_api - INFO - [main.py:481] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 08:06:33 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-22 08:06:33 - air_quality_api - INFO - [main.py:417] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 08:06:33 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 8 predictions, 5 users
+2025-11-22 12:11:03 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 12:11:05 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 12:11:23 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 12:11:32 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 12:11:36 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-22 12:11:36 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 12:11:36 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-22 12:11:36 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 12:11:36 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-22 12:14:33 - air_quality_api - INFO - [main.py:417] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 12:14:33 - air_quality_api - INFO - [main.py:481] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 12:14:35 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 16 predictions, 5 users
+2025-11-22 12:14:36 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 16 predictions, 5 users
+2025-11-22 12:20:47 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 12:20:47 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 12:20:55 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 12:20:59 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 12:21:04 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-22 12:21:04 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 12:21:04 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-22 12:21:04 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 12:21:04 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-22 12:21:11 - air_quality_api - INFO - [main.py:481] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 12:21:13 - air_quality_api - INFO - [main.py:417] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 12:21:16 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 5 users
+2025-11-22 12:21:18 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 5 users
+2025-11-22 12:21:59 - air_quality_api - INFO - [main.py:481] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 12:22:00 - air_quality_api - INFO - [main.py:417] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 12:22:01 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 5 users
+2025-11-22 12:22:01 - air_quality_api - INFO - [main.py:481] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 12:22:02 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 5 users
+2025-11-22 12:22:03 - air_quality_api - INFO - [main.py:417] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 12:22:04 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 5 users
+2025-11-22 12:22:46 - air_quality_api - INFO - [main.py:481] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 12:22:47 - air_quality_api - INFO - [main.py:417] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 12:22:47 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 5 users
+2025-11-22 12:22:48 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 5 users
+2025-11-22 12:25:45 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 12:25:46 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 12:25:53 - air_quality_api - INFO - [main.py:56] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 12:25:58 - air_quality_api - INFO - [main.py:63] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 12:26:02 - air_quality_api - INFO - [main.py:73] - startup_event() - ================================================================================
+2025-11-22 12:26:02 - air_quality_api - INFO - [main.py:74] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 12:26:02 - air_quality_api - INFO - [main.py:75] - startup_event() - ================================================================================
+2025-11-22 12:26:03 - air_quality_api - INFO - [main.py:81] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 12:26:03 - air_quality_api - INFO - [main.py:87] - startup_event() - ================================================================================
+2025-11-22 12:28:28 - air_quality_api - INFO - [main.py:481] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 12:28:29 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 5 users
+2025-11-22 12:28:29 - air_quality_api - INFO - [main.py:417] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 12:28:31 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 5 users
+2025-11-22 12:32:08 - air_quality_api - INFO - [main.py:246] - login_for_access_token() - Login attempt: tensorflowcommunityUyo@gmail.com
+2025-11-22 12:32:08 - air_quality_api - WARNING - [main.py:250] - login_for_access_token() - Failed login attempt: tensorflowcommunityUyo@gmail.com
+2025-11-22 12:32:08 - air_quality_api - INFO - [main.py:246] - login_for_access_token() - Login attempt: tensorflowcommunityUyo@gmail.com
+2025-11-22 12:32:09 - air_quality_api - WARNING - [main.py:250] - login_for_access_token() - Failed login attempt: tensorflowcommunityUyo@gmail.com
+2025-11-22 12:33:09 - air_quality_api - INFO - [main.py:204] - register_user() - User registration attempt: admin@gmail.com
+2025-11-22 12:33:11 - air_quality_api - INFO - [main.py:228] - register_user() - ✓ User registered successfully: admin@gmail.com (ID: 69219f76b5957120fe92a281)
+2025-11-22 12:33:32 - air_quality_api - INFO - [main.py:246] - login_for_access_token() - Login attempt: admin@gmail.com
+2025-11-22 12:33:33 - air_quality_api - INFO - [main.py:262] - login_for_access_token() - ✓ Token generated for user: admin@gmail.com
+2025-11-22 12:34:12 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 6 users
+2025-11-22 12:34:12 - air_quality_api - INFO - [main.py:481] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 12:34:15 - air_quality_api - INFO - [main.py:417] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 12:34:16 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 6 users
+2025-11-22 12:41:06 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 6 users
+2025-11-22 12:41:06 - air_quality_api - INFO - [main.py:481] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 12:41:07 - air_quality_api - INFO - [main.py:417] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 12:41:08 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 6 users
+2025-11-22 12:42:09 - air_quality_api - INFO - [main.py:481] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 12:42:11 - air_quality_api - INFO - [main.py:417] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 12:42:12 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 6 users
+2025-11-22 12:42:14 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 6 users
+2025-11-22 12:42:40 - air_quality_api - INFO - [main.py:481] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 12:42:40 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 6 users
+2025-11-22 12:42:42 - air_quality_api - INFO - [main.py:417] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 12:42:43 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 6 users
+2025-11-22 12:45:07 - air_quality_api - INFO - [main.py:417] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 12:45:07 - air_quality_api - INFO - [main.py:481] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 12:45:09 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 6 users
+2025-11-22 12:45:42 - air_quality_api - INFO - [main.py:481] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 12:45:42 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 6 users
+2025-11-22 12:45:47 - air_quality_api - INFO - [main.py:417] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 12:45:48 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 6 users
+2025-11-22 12:49:19 - air_quality_api - INFO - [main.py:481] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 12:49:22 - air_quality_api - INFO - [main.py:417] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 12:49:25 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 6 users
+2025-11-22 12:49:26 - air_quality_api - INFO - [main.py:397] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 6 users
+2025-11-22 18:21:32 - air_quality_api - INFO - [main.py:92] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 18:21:34 - air_quality_api - INFO - [main.py:95] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 18:22:06 - air_quality_api - INFO - [main.py:50] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 18:22:08 - air_quality_api - INFO - [main.py:57] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 18:22:33 - air_quality_api - INFO - [main.py:67] - startup_event() - ================================================================================
+2025-11-22 18:22:33 - air_quality_api - INFO - [main.py:68] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 18:22:33 - air_quality_api - INFO - [main.py:69] - startup_event() - ================================================================================
+2025-11-22 18:22:33 - air_quality_api - INFO - [main.py:75] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 18:22:33 - air_quality_api - INFO - [main.py:81] - startup_event() - ================================================================================
+2025-11-22 18:23:35 - air_quality_api - INFO - [main.py:86] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 18:23:35 - air_quality_api - INFO - [main.py:89] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 18:24:26 - air_quality_api - INFO - [main.py:50] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 18:26:25 - air_quality_api - INFO - [main.py:50] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 18:29:12 - air_quality_api - INFO - [main.py:50] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 18:29:15 - air_quality_api - INFO - [main.py:57] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 18:29:24 - air_quality_api - INFO - [main.py:69] - startup_event() - ================================================================================
+2025-11-22 18:29:24 - air_quality_api - INFO - [main.py:70] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 18:29:24 - air_quality_api - INFO - [main.py:71] - startup_event() - ================================================================================
+2025-11-22 18:29:25 - air_quality_api - INFO - [main.py:77] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 18:29:25 - air_quality_api - INFO - [main.py:83] - startup_event() - ================================================================================
+2025-11-22 18:29:25 - air_quality_api - INFO - [main.py:88] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 18:29:25 - air_quality_api - INFO - [main.py:91] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 18:29:32 - air_quality_api - INFO - [main.py:50] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 18:29:34 - air_quality_api - INFO - [main.py:57] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 18:29:37 - air_quality_api - INFO - [main.py:69] - startup_event() - ================================================================================
+2025-11-22 18:29:37 - air_quality_api - INFO - [main.py:70] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 18:29:37 - air_quality_api - INFO - [main.py:71] - startup_event() - ================================================================================
+2025-11-22 18:29:37 - air_quality_api - INFO - [main.py:77] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 18:29:37 - air_quality_api - INFO - [main.py:83] - startup_event() - ================================================================================
+2025-11-22 18:29:37 - air_quality_api - INFO - [main.py:88] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 18:29:37 - air_quality_api - INFO - [main.py:92] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 18:31:43 - air_quality_api - INFO - [main.py:50] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 18:31:45 - air_quality_api - INFO - [main.py:57] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 18:31:48 - air_quality_api - INFO - [main.py:67] - startup_event() - ================================================================================
+2025-11-22 18:31:48 - air_quality_api - INFO - [main.py:68] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 18:31:48 - air_quality_api - INFO - [main.py:69] - startup_event() - ================================================================================
+2025-11-22 18:31:48 - air_quality_api - INFO - [main.py:75] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 18:31:48 - air_quality_api - INFO - [main.py:81] - startup_event() - ================================================================================
+2025-11-22 18:36:33 - air_quality_api - INFO - [main.py:86] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 18:36:33 - air_quality_api - INFO - [main.py:89] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 18:39:44 - air_quality_api - INFO - [main.py:50] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 18:39:46 - air_quality_api - INFO - [main.py:57] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 18:39:49 - air_quality_api - INFO - [main.py:67] - startup_event() - ================================================================================
+2025-11-22 18:39:49 - air_quality_api - INFO - [main.py:68] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 18:39:49 - air_quality_api - INFO - [main.py:69] - startup_event() - ================================================================================
+2025-11-22 18:39:49 - air_quality_api - INFO - [main.py:75] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 18:39:49 - air_quality_api - INFO - [main.py:81] - startup_event() - ================================================================================
+2025-11-22 18:41:45 - air_quality_api - INFO - [main.py:86] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 18:41:45 - air_quality_api - INFO - [main.py:89] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 18:41:50 - air_quality_api - INFO - [main.py:50] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 18:41:52 - air_quality_api - INFO - [main.py:57] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 18:41:56 - air_quality_api - INFO - [main.py:67] - startup_event() - ================================================================================
+2025-11-22 18:41:56 - air_quality_api - INFO - [main.py:68] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 18:41:56 - air_quality_api - INFO - [main.py:69] - startup_event() - ================================================================================
+2025-11-22 18:41:57 - air_quality_api - INFO - [main.py:75] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 18:41:57 - air_quality_api - INFO - [main.py:81] - startup_event() - ================================================================================
+2025-11-22 18:41:58 - air_quality_api - INFO - [main.py:391] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 6 users
+2025-11-22 18:41:59 - air_quality_api - INFO - [main.py:475] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 18:41:59 - air_quality_api - INFO - [main.py:411] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 18:42:00 - air_quality_api - INFO - [main.py:411] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 18:42:00 - air_quality_api - INFO - [main.py:391] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 6 users
+2025-11-22 18:42:01 - air_quality_api - INFO - [main.py:391] - get_model_analytics() - ✓ Analytics report generated: 17 predictions, 6 users
+2025-11-22 18:43:05 - air_quality_api - INFO - [main.py:240] - login_for_access_token() - Login attempt: admin@gmail.com
+2025-11-22 18:43:05 - air_quality_api - INFO - [main.py:256] - login_for_access_token() - ✓ Token generated for user: admin@gmail.com
+2025-11-22 18:43:49 - air_quality_api - INFO - [main.py:411] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 18:43:49 - air_quality_api - INFO - [main.py:411] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 18:43:50 - air_quality_api - INFO - [main.py:411] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 18:52:12 - air_quality_api - INFO - [main.py:475] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 18:52:13 - air_quality_api - INFO - [main.py:411] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 18:52:14 - air_quality_api - INFO - [main.py:391] - get_model_analytics() - ✓ Analytics report generated: 19 predictions, 6 users
+2025-11-22 18:52:14 - air_quality_api - INFO - [main.py:411] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 18:52:15 - air_quality_api - INFO - [main.py:391] - get_model_analytics() - ✓ Analytics report generated: 19 predictions, 6 users
+2025-11-22 18:52:16 - air_quality_api - INFO - [main.py:391] - get_model_analytics() - ✓ Analytics report generated: 19 predictions, 6 users
+2025-11-22 18:52:54 - air_quality_api - INFO - [main.py:411] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 18:52:54 - air_quality_api - INFO - [main.py:411] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 18:52:54 - air_quality_api - INFO - [main.py:411] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 18:53:54 - air_quality_api - INFO - [main.py:475] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 18:53:55 - air_quality_api - INFO - [main.py:391] - get_model_analytics() - ✓ Analytics report generated: 21 predictions, 6 users
+2025-11-22 18:53:55 - air_quality_api - INFO - [main.py:411] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 18:53:55 - air_quality_api - INFO - [main.py:411] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 18:53:56 - air_quality_api - INFO - [main.py:391] - get_model_analytics() - ✓ Analytics report generated: 21 predictions, 6 users
+2025-11-22 18:53:56 - air_quality_api - INFO - [main.py:391] - get_model_analytics() - ✓ Analytics report generated: 21 predictions, 6 users
+2025-11-22 18:54:33 - air_quality_api - INFO - [main.py:240] - login_for_access_token() - Login attempt: admin@gmail.com
+2025-11-22 18:54:34 - air_quality_api - INFO - [main.py:256] - login_for_access_token() - ✓ Token generated for user: admin@gmail.com
+2025-11-22 18:54:40 - air_quality_api - INFO - [main.py:411] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 18:54:41 - air_quality_api - INFO - [main.py:411] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 18:54:41 - air_quality_api - INFO - [main.py:411] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 18:54:49 - air_quality_api - INFO - [main.py:86] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 18:54:49 - air_quality_api - INFO - [main.py:89] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 18:55:04 - air_quality_api - INFO - [main.py:50] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 18:55:06 - air_quality_api - INFO - [main.py:57] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 18:55:10 - air_quality_api - INFO - [main.py:67] - startup_event() - ================================================================================
+2025-11-22 18:55:10 - air_quality_api - INFO - [main.py:68] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 18:55:10 - air_quality_api - INFO - [main.py:69] - startup_event() - ================================================================================
+2025-11-22 18:55:10 - air_quality_api - INFO - [main.py:75] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 18:55:10 - air_quality_api - INFO - [main.py:81] - startup_event() - ================================================================================
+2025-11-22 19:00:24 - air_quality_api - INFO - [main.py:86] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 19:00:25 - air_quality_api - INFO - [main.py:89] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 19:00:56 - air_quality_api - INFO - [main.py:50] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 19:00:59 - air_quality_api - INFO - [main.py:57] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 19:01:06 - air_quality_api - INFO - [main.py:67] - startup_event() - ================================================================================
+2025-11-22 19:01:06 - air_quality_api - INFO - [main.py:68] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 19:01:06 - air_quality_api - INFO - [main.py:69] - startup_event() - ================================================================================
+2025-11-22 19:01:06 - air_quality_api - INFO - [main.py:75] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 19:01:06 - air_quality_api - INFO - [main.py:81] - startup_event() - ================================================================================
+2025-11-22 19:01:06 - air_quality_api - INFO - [main.py:86] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 19:01:07 - air_quality_api - INFO - [main.py:89] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 19:01:13 - air_quality_api - INFO - [main.py:50] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 19:01:14 - air_quality_api - INFO - [main.py:57] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 19:01:18 - air_quality_api - INFO - [main.py:67] - startup_event() - ================================================================================
+2025-11-22 19:01:18 - air_quality_api - INFO - [main.py:68] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 19:01:18 - air_quality_api - INFO - [main.py:69] - startup_event() - ================================================================================
+2025-11-22 19:01:19 - air_quality_api - INFO - [main.py:75] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 19:01:19 - air_quality_api - INFO - [main.py:81] - startup_event() - ================================================================================
+2025-11-22 19:01:19 - air_quality_api - INFO - [main.py:86] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 19:01:19 - air_quality_api - INFO - [main.py:89] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 19:01:23 - air_quality_api - INFO - [main.py:51] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 19:01:25 - air_quality_api - INFO - [main.py:58] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 19:01:28 - air_quality_api - INFO - [main.py:68] - startup_event() - ================================================================================
+2025-11-22 19:01:28 - air_quality_api - INFO - [main.py:69] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 19:01:28 - air_quality_api - INFO - [main.py:70] - startup_event() - ================================================================================
+2025-11-22 19:01:28 - air_quality_api - INFO - [main.py:76] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 19:01:28 - air_quality_api - INFO - [main.py:82] - startup_event() - ================================================================================
+2025-11-22 19:01:59 - air_quality_api - INFO - [main.py:87] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 19:01:59 - air_quality_api - INFO - [main.py:90] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 19:02:13 - air_quality_api - INFO - [main.py:51] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 19:02:15 - air_quality_api - INFO - [main.py:58] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 19:02:20 - air_quality_api - INFO - [main.py:68] - startup_event() - ================================================================================
+2025-11-22 19:02:20 - air_quality_api - INFO - [main.py:69] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 19:02:20 - air_quality_api - INFO - [main.py:70] - startup_event() - ================================================================================
+2025-11-22 19:02:20 - air_quality_api - INFO - [main.py:76] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 19:02:20 - air_quality_api - INFO - [main.py:82] - startup_event() - ================================================================================
+2025-11-22 19:02:35 - air_quality_api - INFO - [main.py:497] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 19:02:36 - air_quality_api - INFO - [main.py:433] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:02:36 - air_quality_api - INFO - [main.py:413] - get_model_analytics() - ✓ Analytics report generated: 25 predictions, 6 users
+2025-11-22 19:02:37 - air_quality_api - INFO - [main.py:413] - get_model_analytics() - ✓ Analytics report generated: 25 predictions, 6 users
+2025-11-22 19:02:37 - air_quality_api - INFO - [main.py:433] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:02:38 - air_quality_api - INFO - [main.py:413] - get_model_analytics() - ✓ Analytics report generated: 25 predictions, 6 users
+2025-11-22 19:03:57 - air_quality_api - INFO - [main.py:433] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:03:57 - air_quality_api - INFO - [main.py:433] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:03:58 - air_quality_api - INFO - [main.py:433] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:22:39 - air_quality_api - ERROR - [main.py:452] - get_training_data() - Error fetching training data: ac-ieagrup-shard-00-01.h3c8cow.mongodb.net:27017: [Errno 11001] getaddrinfo failed,ac-ieagrup-shard-00-00.h3c8cow.mongodb.net:27017: [Errno 11001] getaddrinfo failed,ac-ieagrup-shard-00-02.h3c8cow.mongodb.net:27017: [Errno 11001] getaddrinfo failed, Timeout: 30s, Topology Description: <TopologyDescription id: 6921faa501bacc72a5db3a96, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-ieagrup-shard-00-00.h3c8cow.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-ieagrup-shard-00-00.h3c8cow.mongodb.net:27017: [Errno 11001] getaddrinfo failed')>, <ServerDescription ('ac-ieagrup-shard-00-01.h3c8cow.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-ieagrup-shard-00-01.h3c8cow.mongodb.net:27017: [Errno 11001] getaddrinfo failed')>, <ServerDescription ('ac-ieagrup-shard-00-02.h3c8cow.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-ieagrup-shard-00-02.h3c8cow.mongodb.net:27017: [Errno 11001] getaddrinfo failed')>]>
+Traceback (most recent call last):
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\air-quality-prediction\backend\main.py", line 432, in get_training_data
+    }
+    
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\pymongo\cursor.py", line 1262, in next
+    if len(self.__data) or self._refresh():
+                           ~~~~~~~~~~~~~^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\pymongo\cursor.py", line 1153, in _refresh
+    self.__session = self.__collection.database.client._ensure_session()
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\pymongo\mongo_client.py", line 1868, in _ensure_session
+    return self.__start_session(True, causal_consistency=False)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\pymongo\mongo_client.py", line 1811, in __start_session
+    self._topology._check_implicit_session_support()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\pymongo\topology.py", line 583, in _check_implicit_session_support
+    self._check_session_support()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\pymongo\topology.py", line 599, in _check_session_support
+    self._select_servers_loop(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        readable_server_selector, self.get_server_selection_timeout(), None
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\venv_air_quality\Lib\site-packages\pymongo\topology.py", line 269, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+        f"{self._error_message(selector)}, Timeout: {timeout}s, Topology Description: {self.description!r}"
+    )
+pymongo.errors.ServerSelectionTimeoutError: ac-ieagrup-shard-00-01.h3c8cow.mongodb.net:27017: [Errno 11001] getaddrinfo failed,ac-ieagrup-shard-00-00.h3c8cow.mongodb.net:27017: [Errno 11001] getaddrinfo failed,ac-ieagrup-shard-00-02.h3c8cow.mongodb.net:27017: [Errno 11001] getaddrinfo failed, Timeout: 30s, Topology Description: <TopologyDescription id: 6921faa501bacc72a5db3a96, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-ieagrup-shard-00-00.h3c8cow.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-ieagrup-shard-00-00.h3c8cow.mongodb.net:27017: [Errno 11001] getaddrinfo failed')>, <ServerDescription ('ac-ieagrup-shard-00-01.h3c8cow.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-ieagrup-shard-00-01.h3c8cow.mongodb.net:27017: [Errno 11001] getaddrinfo failed')>, <ServerDescription ('ac-ieagrup-shard-00-02.h3c8cow.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-ieagrup-shard-00-02.h3c8cow.mongodb.net:27017: [Errno 11001] getaddrinfo failed')>]>
+2025-11-22 19:23:28 - air_quality_api - INFO - [main.py:497] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 19:23:29 - air_quality_api - INFO - [main.py:413] - get_model_analytics() - ✓ Analytics report generated: 27 predictions, 6 users
+2025-11-22 19:23:29 - air_quality_api - INFO - [main.py:433] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:23:30 - air_quality_api - INFO - [main.py:413] - get_model_analytics() - ✓ Analytics report generated: 27 predictions, 6 users
+2025-11-22 19:23:30 - air_quality_api - INFO - [main.py:433] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:23:31 - air_quality_api - INFO - [main.py:497] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 19:23:31 - air_quality_api - INFO - [main.py:87] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 19:23:31 - air_quality_api - INFO - [main.py:90] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 19:23:44 - air_quality_api - INFO - [main.py:51] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 19:23:48 - air_quality_api - INFO - [main.py:58] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 19:23:55 - air_quality_api - INFO - [main.py:68] - startup_event() - ================================================================================
+2025-11-22 19:23:55 - air_quality_api - INFO - [main.py:69] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 19:23:55 - air_quality_api - INFO - [main.py:70] - startup_event() - ================================================================================
+2025-11-22 19:23:56 - air_quality_api - INFO - [main.py:76] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 19:23:56 - air_quality_api - INFO - [main.py:82] - startup_event() - ================================================================================
+2025-11-22 19:23:56 - air_quality_api - INFO - [main.py:87] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 19:23:56 - air_quality_api - INFO - [main.py:90] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 19:24:04 - air_quality_api - INFO - [main.py:51] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 19:24:06 - air_quality_api - INFO - [main.py:58] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 19:24:12 - air_quality_api - INFO - [main.py:68] - startup_event() - ================================================================================
+2025-11-22 19:24:12 - air_quality_api - INFO - [main.py:69] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 19:24:12 - air_quality_api - INFO - [main.py:70] - startup_event() - ================================================================================
+2025-11-22 19:24:12 - air_quality_api - INFO - [main.py:76] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 19:24:12 - air_quality_api - INFO - [main.py:82] - startup_event() - ================================================================================
+2025-11-22 19:24:35 - air_quality_api - INFO - [main.py:497] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 19:24:35 - air_quality_api - INFO - [main.py:433] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:24:36 - air_quality_api - INFO - [main.py:413] - get_model_analytics() - ✓ Analytics report generated: 27 predictions, 6 users
+2025-11-22 19:24:36 - air_quality_api - INFO - [main.py:433] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:24:37 - air_quality_api - INFO - [main.py:413] - get_model_analytics() - ✓ Analytics report generated: 27 predictions, 6 users
+2025-11-22 19:24:38 - air_quality_api - INFO - [main.py:413] - get_model_analytics() - ✓ Analytics report generated: 27 predictions, 6 users
+2025-11-22 19:24:38 - air_quality_api - INFO - [main.py:497] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 19:24:38 - air_quality_api - INFO - [main.py:433] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:24:39 - air_quality_api - INFO - [main.py:413] - get_model_analytics() - ✓ Analytics report generated: 27 predictions, 6 users
+2025-11-22 19:24:39 - air_quality_api - INFO - [main.py:433] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:24:40 - air_quality_api - INFO - [main.py:413] - get_model_analytics() - ✓ Analytics report generated: 27 predictions, 6 users
+2025-11-22 19:24:40 - air_quality_api - INFO - [main.py:413] - get_model_analytics() - ✓ Analytics report generated: 27 predictions, 6 users
+2025-11-22 19:34:58 - air_quality_api - INFO - [main.py:87] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 19:35:00 - air_quality_api - INFO - [main.py:90] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 19:35:08 - air_quality_api - INFO - [main.py:51] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 19:35:09 - air_quality_api - INFO - [main.py:58] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 19:35:13 - air_quality_api - INFO - [main.py:68] - startup_event() - ================================================================================
+2025-11-22 19:35:13 - air_quality_api - INFO - [main.py:69] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 19:35:13 - air_quality_api - INFO - [main.py:70] - startup_event() - ================================================================================
+2025-11-22 19:35:13 - air_quality_api - INFO - [main.py:76] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 19:35:13 - air_quality_api - INFO - [main.py:82] - startup_event() - ================================================================================
+2025-11-22 19:36:47 - air_quality_api - INFO - [main.py:87] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 19:36:47 - air_quality_api - INFO - [main.py:90] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 19:36:52 - air_quality_api - INFO - [main.py:51] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 19:36:55 - air_quality_api - INFO - [main.py:58] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 19:36:58 - air_quality_api - INFO - [main.py:68] - startup_event() - ================================================================================
+2025-11-22 19:36:58 - air_quality_api - INFO - [main.py:69] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 19:36:58 - air_quality_api - INFO - [main.py:70] - startup_event() - ================================================================================
+2025-11-22 19:36:58 - air_quality_api - INFO - [main.py:76] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 19:36:58 - air_quality_api - INFO - [main.py:82] - startup_event() - ================================================================================
+2025-11-22 19:36:58 - air_quality_api - INFO - [main.py:456] - get_model_analytics() - ✓ Analytics report generated: 27 predictions, 6 users
+2025-11-22 19:36:59 - air_quality_api - INFO - [main.py:476] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:36:59 - air_quality_api - INFO - [main.py:540] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 19:37:00 - air_quality_api - INFO - [main.py:456] - get_model_analytics() - ✓ Analytics report generated: 27 predictions, 6 users
+2025-11-22 19:37:00 - air_quality_api - INFO - [main.py:476] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:37:00 - air_quality_api - INFO - [main.py:456] - get_model_analytics() - ✓ Analytics report generated: 27 predictions, 6 users
+2025-11-22 19:37:22 - air_quality_api - INFO - [main.py:241] - login_for_access_token() - Login attempt: admin@gmail.com
+2025-11-22 19:37:23 - air_quality_api - INFO - [main.py:257] - login_for_access_token() - ✓ Token generated for user: admin@gmail.com
+2025-11-22 19:37:44 - air_quality_api - INFO - [main.py:540] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 19:37:44 - air_quality_api - INFO - [main.py:456] - get_model_analytics() - ✓ Analytics report generated: 27 predictions, 6 users
+2025-11-22 19:37:45 - air_quality_api - INFO - [main.py:476] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:37:45 - air_quality_api - INFO - [main.py:476] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:37:46 - air_quality_api - INFO - [main.py:456] - get_model_analytics() - ✓ Analytics report generated: 27 predictions, 6 users
+2025-11-22 19:37:47 - air_quality_api - INFO - [main.py:456] - get_model_analytics() - ✓ Analytics report generated: 27 predictions, 6 users
+2025-11-22 19:54:01 - air_quality_api - INFO - [main.py:456] - get_model_analytics() - ✓ Analytics report generated: 27 predictions, 6 users
+2025-11-22 19:54:01 - air_quality_api - INFO - [main.py:540] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 19:54:02 - air_quality_api - INFO - [main.py:476] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:54:02 - air_quality_api - INFO - [main.py:87] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 19:54:02 - air_quality_api - INFO - [main.py:90] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 19:54:11 - air_quality_api - INFO - [main.py:51] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 19:54:13 - air_quality_api - INFO - [main.py:58] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 19:54:18 - air_quality_api - INFO - [main.py:68] - startup_event() - ================================================================================
+2025-11-22 19:54:18 - air_quality_api - INFO - [main.py:69] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 19:54:18 - air_quality_api - INFO - [main.py:70] - startup_event() - ================================================================================
+2025-11-22 19:54:18 - air_quality_api - INFO - [main.py:76] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 19:54:18 - air_quality_api - INFO - [main.py:82] - startup_event() - ================================================================================
+2025-11-22 19:54:19 - air_quality_api - INFO - [main.py:487] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:54:19 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:54:20 - air_quality_api - INFO - [main.py:467] - get_model_analytics() - ✓ Analytics report generated: 27 predictions, 6 users
+2025-11-22 19:54:20 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:54:21 - air_quality_api - INFO - [main.py:467] - get_model_analytics() - ✓ Analytics report generated: 27 predictions, 6 users
+2025-11-22 19:54:22 - air_quality_api - INFO - [main.py:487] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:54:22 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:54:23 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:54:23 - air_quality_api - INFO - [main.py:487] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:54:24 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:54:24 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:54:25 - air_quality_api - INFO - [main.py:487] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:54:26 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:54:27 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:54:27 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:54:28 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:54:32 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:54:32 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:54:33 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:55:09 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:55:09 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:55:10 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:55:13 - air_quality_api - INFO - [main.py:487] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:55:14 - air_quality_api - INFO - [main.py:487] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:55:14 - air_quality_api - INFO - [main.py:487] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 19:55:49 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:55:49 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:55:50 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:55:53 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:55:53 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:55:54 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:59:06 - air_quality_api - INFO - [main.py:87] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 19:59:07 - air_quality_api - INFO - [main.py:90] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 19:59:15 - air_quality_api - INFO - [main.py:51] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 19:59:18 - air_quality_api - INFO - [main.py:58] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 19:59:28 - air_quality_api - INFO - [main.py:68] - startup_event() - ================================================================================
+2025-11-22 19:59:28 - air_quality_api - INFO - [main.py:69] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 19:59:28 - air_quality_api - INFO - [main.py:70] - startup_event() - ================================================================================
+2025-11-22 19:59:29 - air_quality_api - INFO - [main.py:76] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 19:59:29 - air_quality_api - INFO - [main.py:82] - startup_event() - ================================================================================
+2025-11-22 19:59:29 - air_quality_api - INFO - [main.py:87] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 19:59:30 - air_quality_api - INFO - [main.py:90] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 19:59:38 - air_quality_api - INFO - [main.py:51] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 19:59:42 - air_quality_api - INFO - [main.py:58] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 19:59:47 - air_quality_api - INFO - [main.py:68] - startup_event() - ================================================================================
+2025-11-22 19:59:47 - air_quality_api - INFO - [main.py:69] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 19:59:47 - air_quality_api - INFO - [main.py:70] - startup_event() - ================================================================================
+2025-11-22 19:59:47 - air_quality_api - INFO - [main.py:76] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 19:59:47 - air_quality_api - INFO - [main.py:82] - startup_event() - ================================================================================
+2025-11-22 19:59:55 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:59:56 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 19:59:57 - air_quality_api - INFO - [main.py:288] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 20:01:18 - air_quality_api - INFO - [main.py:87] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 20:01:18 - air_quality_api - INFO - [main.py:90] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 20:01:25 - air_quality_api - INFO - [main.py:51] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 20:01:28 - air_quality_api - INFO - [main.py:58] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 20:01:37 - air_quality_api - INFO - [main.py:68] - startup_event() - ================================================================================
+2025-11-22 20:01:37 - air_quality_api - INFO - [main.py:69] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 20:01:37 - air_quality_api - INFO - [main.py:70] - startup_event() - ================================================================================
+2025-11-22 20:01:37 - air_quality_api - INFO - [main.py:76] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 20:01:37 - air_quality_api - INFO - [main.py:82] - startup_event() - ================================================================================
+2025-11-22 20:02:06 - air_quality_api - INFO - [main.py:280] - get_user_predictions() - 🔍 GET /predictions - user_id='69219f76b5957120fe92a281' (type: str, len: 24)
+2025-11-22 20:02:06 - air_quality_api - INFO - [main.py:284] - get_user_predictions() - 📊 Querying db.predictions.find({'user_id': '69219f76b5957120fe92a281'})
+2025-11-22 20:02:06 - air_quality_api - INFO - [main.py:289] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 20:02:06 - air_quality_api - INFO - [main.py:280] - get_user_predictions() - 🔍 GET /predictions - user_id='69219f76b5957120fe92a281' (type: str, len: 24)
+2025-11-22 20:02:06 - air_quality_api - INFO - [main.py:284] - get_user_predictions() - 📊 Querying db.predictions.find({'user_id': '69219f76b5957120fe92a281'})
+2025-11-22 20:02:07 - air_quality_api - INFO - [main.py:289] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 20:02:07 - air_quality_api - INFO - [main.py:280] - get_user_predictions() - 🔍 GET /predictions - user_id='69219f76b5957120fe92a281' (type: str, len: 24)
+2025-11-22 20:02:07 - air_quality_api - INFO - [main.py:284] - get_user_predictions() - 📊 Querying db.predictions.find({'user_id': '69219f76b5957120fe92a281'})
+2025-11-22 20:02:07 - air_quality_api - INFO - [main.py:289] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 20:02:22 - air_quality_api - INFO - [main.py:87] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 20:02:22 - air_quality_api - INFO - [main.py:90] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 20:02:34 - air_quality_api - INFO - [main.py:51] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 20:02:37 - air_quality_api - INFO - [main.py:58] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 20:02:44 - air_quality_api - INFO - [main.py:68] - startup_event() - ================================================================================
+2025-11-22 20:02:44 - air_quality_api - INFO - [main.py:69] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 20:02:44 - air_quality_api - INFO - [main.py:70] - startup_event() - ================================================================================
+2025-11-22 20:02:44 - air_quality_api - INFO - [main.py:76] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 20:02:44 - air_quality_api - INFO - [main.py:82] - startup_event() - ================================================================================
+2025-11-22 20:05:09 - air_quality_api - INFO - [main.py:87] - shutdown_event() - 🛑 APPLICATION SHUTDOWN
+2025-11-22 20:05:10 - air_quality_api - INFO - [main.py:90] - shutdown_event() - ✓ MongoDB connection closed
+2025-11-22 20:05:34 - air_quality_api - INFO - [main.py:51] - <module>() - ✓ Connecting to MongoDB Atlas...
+2025-11-22 20:05:40 - air_quality_api - INFO - [main.py:58] - <module>() - ✓ Successfully connected to MongoDB Atlas
+2025-11-22 20:06:01 - air_quality_api - INFO - [main.py:68] - startup_event() - ================================================================================
+2025-11-22 20:06:01 - air_quality_api - INFO - [main.py:69] - startup_event() - 🚀 APPLICATION STARTUP
+2025-11-22 20:06:01 - air_quality_api - INFO - [main.py:70] - startup_event() - ================================================================================
+2025-11-22 20:06:01 - air_quality_api - INFO - [main.py:76] - startup_event() - ✓ Prediction models initialized successfully
+2025-11-22 20:06:01 - air_quality_api - INFO - [main.py:82] - startup_event() - ================================================================================
+2025-11-22 20:07:48 - air_quality_api - INFO - [main.py:488] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 20:07:49 - air_quality_api - INFO - [main.py:552] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-22 20:07:50 - air_quality_api - INFO - [main.py:488] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-22 20:07:51 - air_quality_api - INFO - [main.py:468] - get_model_analytics() - ✓ Analytics report generated: 29 predictions, 6 users
+2025-11-22 20:07:53 - air_quality_api - INFO - [main.py:468] - get_model_analytics() - ✓ Analytics report generated: 29 predictions, 6 users
+2025-11-22 20:07:54 - air_quality_api - INFO - [main.py:468] - get_model_analytics() - ✓ Analytics report generated: 29 predictions, 6 users
+2025-11-22 20:08:15 - air_quality_api - INFO - [main.py:241] - login_for_access_token() - Login attempt: admin@gmail.com
+2025-11-22 20:08:17 - air_quality_api - INFO - [main.py:257] - login_for_access_token() - ✓ Token generated for user: admin@gmail.com
+2025-11-22 20:08:27 - air_quality_api - INFO - [main.py:280] - get_user_predictions() - 🔍 GET /predictions - user_id='69219f76b5957120fe92a281' (type: str, len: 24)
+2025-11-22 20:08:27 - air_quality_api - INFO - [main.py:284] - get_user_predictions() - 📊 Querying db.predictions.find({'user_id': '69219f76b5957120fe92a281'})
+2025-11-22 20:08:27 - air_quality_api - INFO - [main.py:289] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 20:08:28 - air_quality_api - INFO - [main.py:280] - get_user_predictions() - 🔍 GET /predictions - user_id='69219f76b5957120fe92a281' (type: str, len: 24)
+2025-11-22 20:08:28 - air_quality_api - INFO - [main.py:284] - get_user_predictions() - 📊 Querying db.predictions.find({'user_id': '69219f76b5957120fe92a281'})
+2025-11-22 20:08:28 - air_quality_api - INFO - [main.py:289] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-22 20:08:28 - air_quality_api - INFO - [main.py:280] - get_user_predictions() - 🔍 GET /predictions - user_id='69219f76b5957120fe92a281' (type: str, len: 24)
+2025-11-22 20:08:28 - air_quality_api - INFO - [main.py:284] - get_user_predictions() - 📊 Querying db.predictions.find({'user_id': '69219f76b5957120fe92a281'})
+2025-11-22 20:08:29 - air_quality_api - INFO - [main.py:289] - get_user_predictions() - ✓ Retrieved 0 predictions for user 69219f76b5957120fe92a281
+2025-11-24 13:52:57 - air_quality_api - INFO - [main.py:468] - get_model_analytics() - ✓ Analytics report generated: 29 predictions, 6 users
+2025-11-24 13:52:58 - air_quality_api - INFO - [main.py:488] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-24 13:52:58 - air_quality_api - INFO - [main.py:552] - get_cities_geodata() - ✓ City geodata retrieved for 1 locations
+2025-11-24 13:52:58 - air_quality_api - INFO - [main.py:488] - get_training_data() - ✓ Retrieved 100 training records
+2025-11-24 13:52:59 - air_quality_api - INFO - [main.py:468] - get_model_analytics() - ✓ Analytics report generated: 29 predictions, 6 users
+2025-11-24 13:52:59 - air_quality_api - INFO - [main.py:468] - get_model_analytics() - ✓ Analytics report generated: 29 predictions, 6 users

@@ -1,0 +1,48 @@
+{
+  "model_name": "stacking",
+  "model_type": "ensemble",
+  "training_date": "2025-11-21",
+  "performance": {
+    "mae": 0.01900883729246931,
+    "rmse": 0.023844693488934837,
+    "r2": 0.9999996750922923,
+    "mape": 0.0504418396235579
+  },
+  "input_features": 173,
+  "feature_names": [
+    "PM10",
+    "NO2",
+    "SO2",
+    "CO",
+    "O3",
+    "Temperature",
+    "Humidity",
+    "Wind Speed",
+    "year",
+    "month"
+  ],
+  "dataset_size": "7000 training samples",
+  "base_models_saved": [
+    "Linear Regression",
+    "Ridge Regression",
+    "Lasso Regression",
+    "ElasticNet",
+    "Random Forest",
+    "Gradient Boosting",
+    "SVM RBF",
+    "SVM Linear",
+    "MLP Regressor",
+    "XGBoost",
+    "LightGBM"
+  ],
+  "tensorflow_models_saved": [
+    "SimpleDense",
+    "DeepDense",
+    "WideDeep"
+  ],
+  "pytorch_models_saved": [
+    "SimpleNN",
+    "DeepNN",
+    "ResidualNN"
+  ]
+}

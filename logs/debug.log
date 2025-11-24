@@ -1,0 +1,3 @@
+2025-11-12 11:47:20 - debug_logger - DEBUG - [logger_config.py:119] - <module>() - Testing debug logger
+2025-11-12 11:53:50 - debug_logger - DEBUG - [logger_config.py:148] - <module>() - Testing debug logger
+2025-11-12 12:00:04 - debug_logger - DEBUG - [test_logging.py:31] - <module>() - Test from debug_logger

@@ -1,0 +1,72 @@
+2025-11-21 19:05:11,639 - INFO - 
+======================================================================
+2025-11-21 19:05:11,641 - INFO - NEW TRAINED MODELS - VERIFICATION TEST SUITE
+2025-11-21 19:05:11,641 - INFO - ======================================================================
+2025-11-21 19:05:11,641 - INFO - ======================================================================
+2025-11-21 19:05:11,642 - INFO - TESTING MODEL LOADING
+2025-11-21 19:05:11,642 - INFO - ======================================================================
+2025-11-21 19:05:11,643 - INFO - Initialized model loader with artifacts_dir: C:\Users\USER\Documents\Air Quality Prediction and Health Impact Analysis project\air-quality-prediction\backend\trained_model
+2025-11-21 19:05:11,643 - INFO - ============================================================
+2025-11-21 19:05:11,643 - INFO - LOADING MODELS AND ARTIFACTS
+2025-11-21 19:05:11,644 - INFO - ============================================================
+2025-11-21 19:05:13,352 - WARNING - Failed to load model lightgbm.joblib: No module named 'lightgbm'
+2025-11-21 19:05:13,642 - WARNING - Failed to load model xgboost.joblib: No module named 'xgboost'
+2025-11-21 19:05:13,679 - INFO - 
+Model Status:
+2025-11-21 19:05:13,681 - INFO -   Ready: True
+2025-11-21 19:05:13,682 - INFO -   Models Loaded: 10
+2025-11-21 19:05:13,683 - INFO -   Feature Count: 173
+2025-11-21 19:05:13,683 - INFO -   Available Models: ['elasticnet', 'gradient_boosting', 'lasso_regression', 'linear_regression', 'mlp_regressor', 'random_forest', 'ridge_regression', 'svm_linear', 'svm_rbf', 'ensemble']
+2025-11-21 19:05:13,685 - INFO - 
+======================================================================
+2025-11-21 19:05:13,686 - INFO - TESTING BASE MODEL ACCESS
+2025-11-21 19:05:13,687 - INFO - ======================================================================
+2025-11-21 19:05:13,687 - INFO - Available models (10):
+2025-11-21 19:05:13,688 - INFO -   1. elasticnet
+2025-11-21 19:05:13,688 - INFO -   2. gradient_boosting
+2025-11-21 19:05:13,688 - INFO -   3. lasso_regression
+2025-11-21 19:05:13,689 - INFO -   4. linear_regression
+2025-11-21 19:05:13,689 - INFO -   5. mlp_regressor
+2025-11-21 19:05:13,689 - INFO -   6. random_forest
+2025-11-21 19:05:13,689 - INFO -   7. ridge_regression
+2025-11-21 19:05:13,690 - INFO -   8. svm_linear
+2025-11-21 19:05:13,690 - INFO -   9. svm_rbf
+2025-11-21 19:05:13,691 - INFO -   10. ensemble
+2025-11-21 19:05:13,691 - INFO - 
+Key Base Models Check:
+2025-11-21 19:05:13,754 - INFO - 
+======================================================================
+2025-11-21 19:05:13,754 - INFO - TESTING PREDICTIONS WITH REAL DATA
+2025-11-21 19:05:13,755 - INFO - ======================================================================
+2025-11-21 19:05:13,755 - INFO - 
+[Test 1] Simple Prediction (London, Current Date)
+2025-11-21 19:05:13,776 - WARNING - No historical data provided. Lag and rolling features will be zero-filled.
+2025-11-21 19:05:13,988 - INFO - Features engineered successfully. Shape: (1, 173)
+2025-11-21 19:05:13,994 - INFO -   Prediction Result: 1.2481 µg/m³
+2025-11-21 19:05:13,995 - INFO -   Success: True
+2025-11-21 19:05:13,995 - INFO - 
+[Test 2] Paris Prediction
+2025-11-21 19:05:14,010 - WARNING - No historical data provided. Lag and rolling features will be zero-filled.
+2025-11-21 19:05:14,214 - INFO - Features engineered successfully. Shape: (1, 173)
+2025-11-21 19:05:14,216 - INFO -   Prediction Result: 1.3622 µg/m³
+2025-11-21 19:05:14,217 - INFO -   Success: True
+2025-11-21 19:05:14,217 - INFO - 
+[Test 3] Delhi Prediction (High Pollution)
+2025-11-21 19:05:14,231 - WARNING - No historical data provided. Lag and rolling features will be zero-filled.
+2025-11-21 19:05:14,441 - INFO - Features engineered successfully. Shape: (1, 173)
+2025-11-21 19:05:14,444 - INFO -   Prediction Result: 4.3604 µg/m³
+2025-11-21 19:05:14,444 - INFO -   Success: True
+2025-11-21 19:05:14,445 - INFO - 
+[Test 4] Prediction using SVM Linear model
+2025-11-21 19:05:14,456 - WARNING - No historical data provided. Lag and rolling features will be zero-filled.
+2025-11-21 19:05:14,657 - INFO - Features engineered successfully. Shape: (1, 173)
+2025-11-21 19:05:14,658 - INFO -   Model Used: svm_linear
+2025-11-21 19:05:14,658 - INFO -   Prediction Result: 3.2452 µg/m³
+2025-11-21 19:05:14,658 - INFO -   Success: True
+2025-11-21 19:05:14,659 - INFO - 
+======================================================================
+2025-11-21 19:05:14,660 - INFO - TEST SUMMARY
+2025-11-21 19:05:14,660 - INFO - ======================================================================
+2025-11-21 19:05:14,683 - INFO - 
+======================================================================
+2025-11-21 19:05:14,695 - INFO - ======================================================================
