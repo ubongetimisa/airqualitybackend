@@ -23,7 +23,7 @@ pydantic==2.5.2                    # Request/response validation
 pydantic[email]==2.5.2             # Email validation
 
 # Traditional ML Models
-scikit-learn==1.3.2                # SVM, Ridge, Lasso, etc.
+scikit-learn==1.3.2              # SVM, Ridge, Lasso, etc.
 xgboost==2.0.0                     # Gradient boosting
 lightgbm==4.1.0                    # Light gradient boosting
 statsmodels==0.14.0                # Statistical models
