@@ -21,6 +21,7 @@ RUN pip install --no-cache-dir --upgrade pip setuptools wheel && \
 FROM python:3.9-slim
 
 WORKDIR /app
+RUN mkdir -p /logs/backend
 
 # Install runtime dependencies only
 RUN apt-get update && apt-get install -y --no-install-recommends \
